@@ -1,0 +1,34 @@
+{
+  "name": "eslint-config-gan",
+  "version": "1.0.0",
+  "description": "eslint (with prettier integration) configs for GAN projects",
+  "main": "index.js",
+  "dependencies": {
+    "eslint-config-prettier": "1.7.0",
+    "eslint-plugin-prettier": "2.0.1"
+  },
+  "peerDependencies": {
+    "eslint": "^3.19.0",
+    "prettier": "^1.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "prettier": "^1.3.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/gan-int/eslint-config-gan.git"
+  },
+  "keywords": [
+    "eslint",
+    "gan",
+    "prettier",
+    "config"
+  ],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/gan-int/eslint-config-gan#readme"
+}
