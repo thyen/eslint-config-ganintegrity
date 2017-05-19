@@ -15,8 +15,8 @@ Then in your project's eslint config, extend this config:
 
 ```json
 {
-    "extends": [
-        "gan"
-    ]
+  "extends": [
+    "gan"
+  ]
 }
 ```
