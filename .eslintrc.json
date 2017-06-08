@@ -20,6 +20,7 @@
     },
     "rules": {
       "curly": ["error", "all"],
+      "eqeqeq": ["error", "always"],
       "prettier/prettier": ["error", {"singleQuote": true}]
     }
 }
