@@ -1,7 +1,7 @@
-# eslint-config-gan
+# eslint-config-ganintegrity
 
-Shared [eslint](http://eslint.org/) configs for GAN projects, with
-[prettier](https://github.com/prettier/prettier) integration.
+[eslint](http://eslint.org/) config with
+[prettier](https://github.com/prettier/prettier)  integration.
 
 ## Usage
 
@@ -11,12 +11,12 @@ Install the dependencies:
 npm install --save-dev eslint prettier eslint-config-gan
 ```
 
-Then in your project's eslint config, extend this config:
+Then in your project's eslint config file, extend this config:
 
 ```json
 {
   "extends": [
-    "gan"
+    "ganintegrity"
   ]
 }
 ```

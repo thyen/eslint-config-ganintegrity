@@ -1,7 +1,7 @@
 {
-  "name": "eslint-config-gan",
+  "name": "eslint-config-ganintegrity",
   "version": "1.0.0",
-  "description": "eslint (with prettier integration) configs for GAN projects",
+  "description": "eslint with prettier integration",
   "main": "index.js",
   "dependencies": {
     "eslint-config-prettier": "2.1.1",
