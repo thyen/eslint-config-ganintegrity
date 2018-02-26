@@ -5,14 +5,12 @@
     "node": true,
     "es6": true
   },
-  "globals": {
-    "angular": false
-  },
   "plugins": [
     "prettier"
   ],
   "extends": [
     "eslint:recommended",
+    "pretty-standard",
     "prettier"
   ],
   "parserOptions": {
