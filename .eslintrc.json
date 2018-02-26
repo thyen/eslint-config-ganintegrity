@@ -13,6 +13,7 @@
   ],
   "extends": [
     "eslint:recommended",
+    "pretty-standard",
     "prettier"
   ],
   "parserOptions": {
