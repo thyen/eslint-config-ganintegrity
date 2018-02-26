@@ -1,6 +1,6 @@
 # eslint-config-ganintegrity
 
-[eslint](http://eslint.org/) config with
+[eslint](http://eslint.org/) configs with
 [prettier](https://github.com/prettier/prettier)  integration.
 
 ## Usage

@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-ganintegrity",
   "version": "1.0.0",
-  "description": "eslint with prettier integration",
+  "description": "eslint configs with prettier integration",
   "main": "index.js",
   "dependencies": {
     "eslint-config-prettier": "^2.9.0",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/gan-int/eslint-config-gan.git"
+    "url": "git+ssh://git@github.com:ganintegrity/eslint-config-ganintegrity.git"
   },
   "keywords": [
     "eslint",
@@ -30,6 +30,6 @@
     "config"
   ],
   "author": "",
-  "license": "ISC",
-  "homepage": "https://bitbucket.org/gan-int/eslint-config-gan#readme"
+  "license": "MIT",
+  "homepage": "https://github.com:ganintegrity/eslint-config-ganintegrity#readme"
 }
