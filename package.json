@@ -4,16 +4,16 @@
   "description": "eslint with prettier integration",
   "main": "index.js",
   "dependencies": {
-    "eslint-config-prettier": "2.1.1",
-    "eslint-plugin-prettier": "2.0.1"
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-prettier": "^2.6.0"
   },
   "peerDependencies": {
-    "eslint": "^3.19.0",
-    "prettier": "^1.3.1"
+    "eslint": "3 || 4",
+    "prettier": "1"
   },
   "devDependencies": {
-    "eslint": "^3.19.0",
-    "prettier": "^1.3.1"
+    "eslint": "^4.18.1",
+    "prettier": "^1.10.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
