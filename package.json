@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:ganintegrity/eslint-config-ganintegrity.git"
+    "url": "git+ssh://git@github.com/ganintegrity/eslint-config-ganintegrity.git"
   },
   "keywords": [
     "eslint",
@@ -35,5 +35,5 @@
   ],
   "author": "",
   "license": "MIT",
-  "homepage": "https://github.com:ganintegrity/eslint-config-ganintegrity#readme"
+  "homepage": "https://github.com/ganintegrity/eslint-config-ganintegrity#readme"
 }
