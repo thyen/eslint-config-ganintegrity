@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ganintegrity",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "eslint configs with prettier integration",
   "main": "index.js",
   "dependencies": {
