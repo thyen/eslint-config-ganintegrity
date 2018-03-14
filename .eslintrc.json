@@ -20,6 +20,7 @@
     "curly": ["error", "all"],
     "eqeqeq": ["error", "always"],
     "no-var": "error",
+    "no-unused-vars": ["error", {"vars": "all", "args": "after-used"}],
     "prefer-const": "error",
     "prettier/prettier": ["error", {"singleQuote": true}]
   }
