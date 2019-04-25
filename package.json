@@ -4,7 +4,7 @@
   "description": "eslint configs with prettier integration",
   "main": "index.js",
   "dependencies": {
-    "eslint-config-prettier": "^2.9.0",
+    "eslint-config-prettier": "^4.2.0",
     "eslint-config-pretty-standard": "^1.2.0",
     "eslint-plugin-prettier": "^2.6.0"
   },
